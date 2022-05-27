@@ -8,7 +8,7 @@ const CookieConsent = function CookieConsent(props) {
 
     const _t = {
         "title": "Cookie settings",
-        "body": "We use cookies to personalize content and analyze traffic to our website. You can choose to accept only cookies that are necessary for the website to function or to also allow tracking cookies. For more information, please see our --privacy-policy--.",
+        "body": "We use some essential cookies to make this website work. We also use cookies to personalize content and analyze traffic to the website. You can choose to accept only cookies that are necessary for the website to function or to also allow tracking cookies. For more information, please see our --privacy-policy--.",
         "privacyPolicy": "privacy policy",
         "buttonAcceptAll": "Accept all cookies",
         "buttonAcceptTechnical": "Only accept technically necessary cookies"
